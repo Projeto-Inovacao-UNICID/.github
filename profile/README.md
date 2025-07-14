@@ -28,6 +28,7 @@ Construir pontes entre talento e oportunidade, impulsionando o desenvolvimento d
 * **Thalles Portal Lopes de Miranda** – Gerente de Projeto
 * **Lucas Guilherme Antonio** – Technical Co-Lead de Backend, Tech Leader de Banco de Dados
 * **Leonardo Bouzan** – Tech Leader de Design e Frontend
+* **Danielle Longati** - Tech Leader de Backend
 * **Nicolas Pires** – Tech Leader de QA
 * **Nicolas Marzagao** – Desenvolvedor Backend
 * **Fernando Goya** – Desenvolvedor Backend
